@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 float prod (float x, float y)
 {
 	return (x*y);
